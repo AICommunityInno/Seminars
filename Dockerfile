@@ -1,0 +1,1 @@
+FROM strawberrypie/everware:latest
